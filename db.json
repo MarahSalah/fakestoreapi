@@ -1,0 +1,67 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Product 1",
+      "image": "image-url-1.jpg",
+      "price": 10,
+      "description": "Description for Product 1"
+    },
+    {
+      "id": 2,
+      "title": "Product 2",
+      "image": "image-url-2.jpg",
+      "price": 20,
+      "description": "Description for Product 2"
+    },
+    {
+      "title": "cs",
+      "image": "images/product1.jpeg",
+      "price": "sd",
+      "description": "ds",
+      "id": 3
+    },
+    {
+      "title": "شي",
+      "image": "saf",
+      "price": "يسش",
+      "description": "يس",
+      "id": 4
+    },
+    {
+      "title": "ds",
+      "image": "sda",
+      "price": "ds",
+      "description": "asd",
+      "id": 5
+    },
+    {
+      "title": "fds",
+      "image": "images/product1.jpeg",
+      "price": "dfs",
+      "description": "fsd",
+      "id": 6
+    },
+    {
+      "title": "da",
+      "image": "da",
+      "price": "da",
+      "description": "da",
+      "id": 7
+    },
+    {
+      "title": "ب",
+      "image": "ب",
+      "price": "ب",
+      "description": "ب",
+      "id": 8
+    },
+    {
+      "title": "بسيش",
+      "image": "سي",
+      "price": "سي",
+      "description": "يب",
+      "id": 9
+    }
+  ]
+}
